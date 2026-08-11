@@ -1,0 +1,31 @@
+{
+  "Table 3 composite discrepancy": 0.31929858965801766,
+  "Earlier Table 3 discrepancy": 0.5219,
+  "Relative Table 3 improvement": 0.3881996749223651,
+  "Table 4 significance agreement": 0.6,
+  "Earlier Table 4 agreement": 0.6667,
+  "Mean absolute overall sMAPE difference": 7.119610628789083,
+  "Selected protocol": {
+    "score": 0.2789852923855453,
+    "ES_score": 0.2825597098301438,
+    "MA_score": 0.2754108749409469,
+    "alpha": 0.5,
+    "window": 4,
+    "evaluation_days": 730,
+    "forecast_shift": 0,
+    "arrival_offset": 0,
+    "shortage_mode": "period",
+    "state_mode": "reset",
+    "aggregation_mode": "macro"
+  },
+  "Initial subset total/table/Figure4 scores": [
+    0.2392361809704428,
+    0.2789852923855453,
+    0.11998884672513531
+  ],
+  "Refined subset total/table/Figure4 scores": [
+    0.14408702357874711,
+    0.1480851727409723,
+    0.13209257609207156
+  ]
+}
